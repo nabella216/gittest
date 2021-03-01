@@ -10,6 +10,7 @@ Neptune
 Pluto**
 
 ANDROMEDA
+WASP-1b
 
 WHIRLPOOL
 
